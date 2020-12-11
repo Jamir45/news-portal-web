@@ -1,0 +1,15 @@
+.categoryDiv {
+   padding: 1em 0em;
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+}
+.category {
+   cursor: pointer;
+   padding: 0.2em 1em;
+   border-radius: 5px;
+   margin: 0.2rem;
+   background: #dee1e6;
+   font-size: 1rem;
+   color: rgb(0, 0, 0);
+}
